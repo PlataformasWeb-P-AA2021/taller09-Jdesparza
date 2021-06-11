@@ -24,7 +24,7 @@ Tecnologías y herramientas:
 
 Tareas:
 
-- Crear un proyecto de Django llamado prroyectociudad.
+- Crear un proyecto de Django llamado proyectociudad.
 - Crear una aplicación en el proyecto en Django llamada ordenamiento.
 - Generar el modelo de la aplicación usando las entidades descritas.
 - Activar la interfaz de administración de la aplicación de Django.
